@@ -92,6 +92,30 @@ The model automatically calculates a Financial Risk Score for every asset and cl
 - Microsoft Excel
 
 ---
+Enterprise-Asset-Disposal-Intelligence
+
+│
+├── data
+│   ├── Asset_Intelligence_System.xlsx
+│
+├── notebooks
+│   ├── Asset_Disposal_Analysis.ipynb
+│
+├── src
+│   ├── asset_disposal_model.py
+│
+├── output
+│   ├── Disposal_Model_Output.xlsx
+│
+├── images
+│   ├── workflow.png
+│   ├── dashboard.png
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── LICENSE
 
 # Business Value Delivered
 
