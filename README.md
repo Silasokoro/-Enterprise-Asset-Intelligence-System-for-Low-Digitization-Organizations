@@ -183,3 +183,8 @@ Silas Okoro
 Business Operations & Performance Data Scientist
 
 Transforming everyday business processes into intelligent, low-cost decision systems using Python, SQL, Power BI and Data Analytics.
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5580a244-b4de-4dae-a331-1b7fe172e776" />
+
+
