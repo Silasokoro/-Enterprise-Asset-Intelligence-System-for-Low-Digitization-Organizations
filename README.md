@@ -46,6 +46,35 @@ The application:
 Because everything runs locally, organizations gain automation without investing in costly digital infrastructure.
 
 ---
+The Structure
+Project Structure
+Enterprise-Asset-Intelligence-System-for-Low-Digitization-Organizations/
+│
+├── README.md
+│   └── Project overview, business problem, solution approach,
+│       business value, technology stack, and implementation details
+│
+├── Enterprise_Asset_Intelligence_model.py
+│   └── Main Python automation model
+│       - Reads asset data
+│       - Calculates maintenance ratios
+│       - Generates asset risk scores
+│       - Produces disposal recommendations
+│       - Automates Excel output
+│       - Monitors workbook updates
+│
+├── asset intelligence book.csv
+│   └── Asset intelligence dataset used as project data
+│
+├── wokflow diagram.png
+│   └── Visual representation of the Enterprise Asset Intelligence
+│       workflow and decision-making process
+│
+├── requirements.txt
+│   └── Python libraries required to run the model
+│
+└── .gitignore
+    └── Specifies files and folders that should not be tracked by Git
 
 # Why This Solution Matters
 
