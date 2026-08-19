@@ -1,0 +1,67 @@
+Disposal model updated successfully.
+
+ASSET DISPOSAL RESULTS
+          Asset Name  Maintenance Ratio (%)  Financial Risk Score Disposal Recommendation
+      Perkins 100KVA                   81.0                  81.0    DISPOSAL RECOMMENDED
+         LG Split AC                   67.0                  67.0         MONITOR CLOSELY
+          CAT 150KVA                  106.0                 106.0    DISPOSAL RECOMMENDED
+       Dell Latitude                   46.0                  46.0            CONTINUE USE
+       Dell Latitude                   80.0                  80.0    DISPOSAL RECOMMENDED
+         LG Split AC                   51.0                  51.0         MONITOR CLOSELY
+     Lenovo ThinkPad                   71.0                  71.0    DISPOSAL RECOMMENDED
+     Toyota Forklift                   38.0                  38.0            CONTINUE USE
+Daikin Industrial AC                  108.0                 108.0    DISPOSAL RECOMMENDED
+Daikin Industrial AC                   65.0                  65.0         MONITOR CLOSELY
+        Toyota Hilux                   66.0                  66.0         MONITOR CLOSELY
+       Dell Latitude                    6.0                   6.0            CONTINUE USE
+      Toyota Corolla                   59.0                  59.0         MONITOR CLOSELY
+        CAT Forklift                    6.0                   6.0            CONTINUE USE
+        CAT Forklift                   54.0                  54.0         MONITOR CLOSELY
+        HP EliteBook                   10.0                  10.0            CONTINUE USE
+          CAT 150KVA                   41.0                  41.0            CONTINUE USE
+      Perkins 100KVA                   67.0                  67.0         MONITOR CLOSELY
+        HP EliteBook                   15.0                  15.0            CONTINUE USE
+     Lenovo ThinkPad                   29.0                  29.0            CONTINUE USE
+     Lenovo ThinkPad                   53.0                  53.0         MONITOR CLOSELY
+          CAT 150KVA                   36.0                  36.0            CONTINUE USE
+      Toyota Corolla                   45.0                  45.0            CONTINUE USE
+        CAT Forklift                   21.0                  21.0            CONTINUE USE
+      Toyota Corolla                   58.0                  58.0         MONITOR CLOSELY
+        CAT Forklift                   58.0                  58.0         MONITOR CLOSELY
+Daikin Industrial AC                   63.0                  63.0         MONITOR CLOSELY
+         LG Split AC                   97.0                  97.0    DISPOSAL RECOMMENDED
+        HP EliteBook                   63.0                  63.0         MONITOR CLOSELY
+        HP EliteBook                   24.0                  24.0            CONTINUE USE
+         Ford Ranger                   11.0                  11.0            CONTINUE USE
+        Mikano 60KVA                   61.0                  61.0         MONITOR CLOSELY
+     Toyota Forklift                   26.0                  26.0            CONTINUE USE
+        HP EliteBook                   87.0                  87.0    DISPOSAL RECOMMENDED
+Daikin Industrial AC                   89.0                  89.0    DISPOSAL RECOMMENDED
+Daikin Industrial AC                   59.0                  59.0         MONITOR CLOSELY
+        HP EliteBook                   90.0                  90.0    DISPOSAL RECOMMENDED
+     Toyota Forklift                   54.0                  54.0         MONITOR CLOSELY
+        Mikano 60KVA                   43.0                  43.0            CONTINUE USE
+         Hyundai Bus                   91.0                  91.0    DISPOSAL RECOMMENDED
+         Hyundai Bus                  102.0                 102.0    DISPOSAL RECOMMENDED
+        Toyota Hilux                  101.0                 101.0    DISPOSAL RECOMMENDED
+       Dell Latitude                   13.0                  13.0            CONTINUE USE
+      Toyota Corolla                   99.0                  99.0    DISPOSAL RECOMMENDED
+      Toyota Corolla                   93.0                  93.0    DISPOSAL RECOMMENDED
+         LG Split AC                   23.0                  23.0            CONTINUE USE
+         Ford Ranger                   30.0                  30.0            CONTINUE USE
+         Hyundai Bus                   79.0                  79.0    DISPOSAL RECOMMENDED
+      Toyota Corolla                   45.0                  45.0            CONTINUE USE
+        HP EliteBook                   44.0                  44.0            CONTINUE USE
+
+ASSET DISPOSAL SUMMARY
+Disposal Recommendation
+CONTINUE USE            20
+DISPOSAL RECOMMENDED    15
+MONITOR CLOSELY         15
+Name: count, dtype: int64
+
+Detected file update...
+
+Reading updated asset master list...
+
+Error: Bad CRC-32 for file 'xl/worksheets/sheet3.xml'
