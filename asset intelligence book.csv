@@ -1,0 +1,51 @@
+Asset_ID,Asset_REG_ID_No,Asset_Name,Category,Location,Colour,Department/Subsidiary,Acquisition_Date,Acquisition_Cost,Expected_Useful_Life_Years,Current_Age_Years,Total_Lifetime_Maintenance_Cost,Replacement_Threshold_% (e.g. 0.7),Replacement_Index (Auto),Status(Active/under repairs/disposed
+AST-1001,REG-2001,Perkins 100KVA,Generator,Lagos HQ,Silver,Finance,2025-02-12,13005596,7,1.3,10534532.76,0.7,0.81,Disposed
+AST-1002,REG-2002,LG Split AC,Air Conditioner,Abuja Office,Red,IT,2022-05-11,2686601,10,4,1800022.67,0.7,0.67,Under Repairs
+AST-1003,REG-2003,CAT 150KVA,Generator,Port Harcourt Depot,Blue,Operations,2022-09-23,18787017,12,3.7,19914238.02,0.7,1.06,Disposed
+AST-1004,REG-2004,Dell Latitude,Laptop,Kano Branch,Blue,Admin,2019-07-25,2122531,9,6.8,976364.26,0.7,0.46,Active
+AST-1005,REG-2005,Dell Latitude,Laptop,Port Harcourt Depot,Red,IT,2022-08-13,2434386,3,3.8,1947508.8,0.7,0.8,Disposed
+AST-1006,REG-2006,LG Split AC,Air Conditioner,Port Harcourt Depot,Black,Operations,2023-06-10,2995623,5,2.9,1527767.73,0.7,0.51,Under Repairs
+AST-1007,REG-2007,Lenovo ThinkPad,Laptop,Port Harcourt Depot,White,Finance,2022-10-30,2488857,8,3.6,1767088.47,0.7,0.71,Disposed
+AST-1008,REG-2008,Toyota Forklift,Forklift,Kano Branch,Silver,Admin,2022-07-24,28955786,12,3.8,11003198.68,0.7,0.38,Active
+AST-1009,REG-2009,Daikin Industrial AC,Air Conditioner,Port Harcourt Depot,Black,IT,2022-10-01,1265596,7,3.6,1366843.68,0.7,1.08,Disposed
+AST-1010,REG-2010,Daikin Industrial AC,Air Conditioner,Kano Branch,Red,IT,2022-07-19,3790911,5,3.8,2464092.15,0.7,0.65,Under Repairs
+AST-1011,REG-2011,Toyota Hilux,Vehicle,Kano Branch,White,Admin,2023-05-09,15167170,6,3,10010332.2,0.7,0.66,Under Repairs
+AST-1012,REG-2012,Dell Latitude,Laptop,Lagos HQ,Silver,Finance,2022-11-19,924051,12,3.5,55443.06,0.7,0.06,Active
+AST-1013,REG-2013,Toyota Corolla,Vehicle,Port Harcourt Depot,Black,IT,2017-11-05,41007489,4,8.5,24194418.51,0.7,0.59,Under Repairs
+AST-1014,REG-2014,CAT Forklift,Forklift,Lagos HQ,Blue,Logistics,2020-09-11,18836888,9,5.7,1130213.28,0.7,0.06,Active
+AST-1015,REG-2015,CAT Forklift,Forklift,Abuja Office,Blue,Operations,2023-05-08,15515837,9,3,8378551.98,0.7,0.54,Under Repairs
+AST-1016,REG-2016,HP EliteBook,Laptop,Kano Branch,Red,Logistics,2024-08-08,988462,12,1.8,98846.2,0.7,0.1,Active
+AST-1017,REG-2017,CAT 150KVA,Generator,Port Harcourt Depot,Red,IT,2023-08-27,15699421,7,2.7,6436762.61,0.7,0.41,Active
+AST-1018,REG-2018,Perkins 100KVA,Generator,Abuja Office,Red,Finance,2019-04-21,17676142,4,7.1,11843015.14,0.7,0.67,Under Repairs
+AST-1019,REG-2019,HP EliteBook,Laptop,Abuja Office,White,Logistics,2017-03-29,1803755,7,9.1,270563.25,0.7,0.15,Active
+AST-1020,REG-2020,Lenovo ThinkPad,Laptop,Abuja Office,Black,IT,2025-01-22,2063348,4,1.3,598370.92,0.7,0.29,Active
+AST-1021,REG-2021,Lenovo ThinkPad,Laptop,Kano Branch,Red,IT,2020-03-31,1203877,5,6.1,638054.81,0.7,0.53,Under Repairs
+AST-1022,REG-2022,CAT 150KVA,Generator,Kano Branch,Red,Finance,2021-03-22,6884427,11,5.2,2478393.72,0.7,0.36,Active
+AST-1023,REG-2023,Toyota Corolla,Vehicle,Lagos HQ,Red,Finance,2018-02-22,22199296,8,8.2,9989683.2,0.7,0.45,Active
+AST-1024,REG-2024,CAT Forklift,Forklift,Lagos HQ,White,Finance,2020-04-15,15629624,10,6.1,3282221.04,0.7,0.21,Active
+AST-1025,REG-2025,Toyota Corolla,Vehicle,Lagos HQ,Silver,Finance,2019-01-17,42159246,8,7.3,24452362.68,0.7,0.58,Under Repairs
+AST-1026,REG-2026,CAT Forklift,Forklift,Kano Branch,Blue,Logistics,2019-10-13,24969865,4,6.6,14482521.7,0.7,0.58,Under Repairs
+AST-1027,REG-2027,Daikin Industrial AC,Air Conditioner,Abuja Office,White,Logistics,2016-11-08,1693357,12,9.5,1066814.91,0.7,0.63,Under Repairs
+AST-1028,REG-2028,LG Split AC,Air Conditioner,Port Harcourt Depot,Red,Admin,2018-08-03,1540973,5,7.8,1494743.81,0.7,0.97,Disposed
+AST-1029,REG-2029,HP EliteBook,Laptop,Lagos HQ,Red,Admin,2019-07-08,993218,6,6.9,625727.34,0.7,0.63,Under Repairs
+AST-1030,REG-2030,HP EliteBook,Laptop,Kano Branch,Silver,IT,2016-11-08,1271269,8,9.5,305104.56,0.7,0.24,Active
+AST-1031,REG-2031,Ford Ranger,Vehicle,Kano Branch,Black,Logistics,2018-09-04,29751549,8,7.7,3272670.39,0.7,0.11,Active
+AST-1032,REG-2032,Mikano 60KVA,Generator,Abuja Office,White,Operations,2018-01-04,6261081,9,8.4,3819259.41,0.7,0.61,Under Repairs
+AST-1033,REG-2033,Toyota Forklift,Forklift,Abuja Office,Silver,Logistics,2016-10-03,24779912,9,9.6,6442777.12,0.7,0.26,Active
+AST-1034,REG-2034,HP EliteBook,Laptop,Abuja Office,White,Finance,2020-05-28,1781275,7,6,1549709.25,0.7,0.87,Disposed
+AST-1035,REG-2035,Daikin Industrial AC,Air Conditioner,Lagos HQ,Black,Operations,2022-07-02,3105034,8,3.9,2763480.26,0.7,0.89,Disposed
+AST-1036,REG-2036,Daikin Industrial AC,Air Conditioner,Port Harcourt Depot,Black,Finance,2022-11-21,3852464,7,3.5,2272953.76,0.7,0.59,Under Repairs
+AST-1037,REG-2037,HP EliteBook,Laptop,Port Harcourt Depot,Blue,Finance,2022-06-04,2317880,5,4,2086092,0.7,0.9,Disposed
+AST-1038,REG-2038,Toyota Forklift,Forklift,Lagos HQ,White,Finance,2021-07-22,25151088,3,4.8,13581587.52,0.7,0.54,Under Repairs
+AST-1039,REG-2039,Mikano 60KVA,Generator,Kano Branch,Black,Admin,2017-03-14,24606089,8,9.2,10580618.27,0.7,0.43,Active
+AST-1040,REG-2040,Hyundai Bus,Vehicle,Lagos HQ,Blue,Logistics,2020-03-24,32370185,12,6.2,29456868.35,0.7,0.91,Disposed
+AST-1041,REG-2041,Hyundai Bus,Vehicle,Abuja Office,Red,Logistics,2019-04-29,28900565,12,7.1,29478576.3,0.7,1.02,Disposed
+AST-1042,REG-2042,Toyota Hilux,Vehicle,Port Harcourt Depot,Black,Operations,2019-09-05,12922780,10,6.7,13052007.8,0.7,1.01,Disposed
+AST-1043,REG-2043,Dell Latitude,Laptop,Port Harcourt Depot,Blue,IT,2025-02-17,1504904,9,1.3,195637.52,0.7,0.13,Active
+AST-1044,REG-2044,Toyota Corolla,Vehicle,Kano Branch,Black,Logistics,2023-11-18,33743256,6,2.5,33405823.44,0.7,0.99,Disposed
+AST-1045,REG-2045,Toyota Corolla,Vehicle,Kano Branch,Red,Admin,2022-04-09,25109593,3,4.1,23351921.49,0.7,0.93,Disposed
+AST-1046,REG-2046,LG Split AC,Air Conditioner,Port Harcourt Depot,Red,Operations,2023-06-03,3533305,11,3,812660.15,0.7,0.23,Active
+AST-1047,REG-2047,Ford Ranger,Vehicle,Lagos HQ,Black,Finance,2022-06-17,12349757,9,3.9,3704927.1,0.7,0.3,Active
+AST-1048,REG-2048,Hyundai Bus,Vehicle,Lagos HQ,White,Admin,2020-08-01,32972587,10,5.8,26048343.73,0.7,0.79,Disposed
+AST-1049,REG-2049,Toyota Corolla,Vehicle,Lagos HQ,Red,Admin,2018-05-14,38330278,5,8,17248625.1,0.7,0.45,Active
+AST-1050,REG-2050,HP EliteBook,Laptop,Lagos HQ,Red,Admin,2022-10-08,1210166,12,3.6,532473.04,0.7,0.44,Active
