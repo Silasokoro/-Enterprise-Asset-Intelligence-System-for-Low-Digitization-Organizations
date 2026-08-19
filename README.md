@@ -187,4 +187,5 @@ Transforming everyday business processes into intelligent, low-cost decision sys
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5580a244-b4de-4dae-a331-1b7fe172e776" />
 
+<img width="1356" height="469" alt="image" src="https://github.com/user-attachments/assets/8efededd-2dcd-4f67-9f44-f3211963b5e2" />
 
