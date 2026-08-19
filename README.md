@@ -204,7 +204,7 @@ Future enhancements include:
 - Business Process Improvement
 
 ---
-Disposal model updated successfully.
+Disposal model updated successfully..
 
 ASSET DISPOSAL RESULTS
           Asset Name  Maintenance Ratio (%)  Financial Risk Score Disposal Recommendation
