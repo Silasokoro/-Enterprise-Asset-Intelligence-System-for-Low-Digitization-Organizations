@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-*.xlsx~
-.env
-.vscode/
